@@ -21,4 +21,4 @@ This GitHub is where I share my experiments, projects, and learning journeys.
 
 ---
 
-⭐ Thanks for visiting! Feel free to explore, learn, and contribute.
+⭐ Thanks for visiting!
