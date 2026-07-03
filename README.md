@@ -9,7 +9,7 @@ This GitHub is where I share my experiments, projects, and learning journeys.
 
 - **Languages:** C, C++, Java, Dart  
 - **Frameworks:** Flutter  
-- **Tools:** Git & GitHub, Figma  
+- **Tools:** MS Excel, Power BI, Git & GitHub, Figma  
 - **Databases:** MySQL, MongoDB, Firebase  
 
 ---
